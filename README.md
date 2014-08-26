@@ -5,6 +5,12 @@ Unity3D project with some scripts and stuff which I want to have in the same pla
 
 
 ----------------------------------------------------
+CombineMesh
+----------------------------------------------------
+merge several meshes in one.
+Source : http://docs.unity3d.com/ScriptReference/Mesh.CombineMeshes.html
+
+----------------------------------------------------
 Modeling By Numbers
 ----------------------------------------------------
 Scripts from http://www.gamasutra.com/blogs/JayelindaSuridge/20130903/199457/Modelling_by_numbers_Part_One_A.php
